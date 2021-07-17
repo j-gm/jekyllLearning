@@ -1,1 +1,9 @@
+# Site settings
+title: Great New Blog Title
+author:
+  name: Javier Garcia
+  email: your-email@domain.com
+description: "Página Wb usando Jekyll on GH-Pages."
+
+# Build settings
 theme: jekyll-theme-slate
